@@ -7,7 +7,7 @@ compatibility_date = "2024-12-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "skify-db"
-database_id = "952f6c35-56a4-40df-ac8f-d375a42d2ced"
+database_id = "1dba62c9-8052-4eb3-8e9c-696fb2f783e2"
 
 [[r2_buckets]]
 binding = "SKILLS"
